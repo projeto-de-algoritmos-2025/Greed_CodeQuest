@@ -1,4 +1,4 @@
-# Grafos2_CodeQuest
+# Greed_CodeQuest
 
 **Número da Lista**: 3
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos
