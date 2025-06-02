@@ -127,13 +127,13 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <p><strong>Imagem 4 - Resolução do exercício 2402</strong></p>
 </div>
 
-![1489](Screenshots/2402.png)
+![2402](Screenshots/2402.png)
 
 <div align="center">
   <p><strong>Imagem 5 - Resolução do exercício 2551</strong></p>
 </div>
 
-![1579](Screenshots/2551.png)
+![2551](Screenshots/2551.png)
 
 #### 🟡 Questão Média
 
@@ -162,7 +162,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <p><strong>Imagem 6 - Resolução do exercício 2064</strong></p>
 </div>
 
-![2685](Screenshots/2064.png)
+![2064](Screenshots/2064.png)
 
 ---
 
