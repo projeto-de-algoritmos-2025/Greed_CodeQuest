@@ -47,7 +47,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <p><strong>Imagem 1 - Resolução do exercício 330</strong></p>
 </div>
 
-![1028](Screenshots/1368.png)
+![1028](Screenshots/330.png)
 
 
 #### 🟡 Questões Média
@@ -81,7 +81,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <p><strong>Imagem 2 - Resolução do exercício 122</strong></p>
 </div>
 
-![2290](Screenshots/882.png)
+![2290](Screenshots/122.png)
 
 </div>
 
@@ -89,7 +89,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <p><strong>Imagem 3 - Resolução do exercício 452<strong></p>
 </div>
 
-![102](Screenshots/743.png)
+![102](Screenshots/452.png)
 ---
 
 
