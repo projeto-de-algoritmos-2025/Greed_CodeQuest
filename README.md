@@ -102,8 +102,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/">1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree</a></td>
-      <td><a href="./1489.py">1489.py</a></td>
+      <td><a href="https://leetcode.com/problems/meeting-rooms-iii/">2402. Meeting Rooms III</a></td>
+      <td><a href="./2402.py">2402.py</a></td>
       <td><a href="https://youtu.be/Zo3cID--f5A">Link</a></td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 4 - Resolução do exercício 1489</strong></p>
+  <p><strong>Imagem 4 - Resolução do exercício 2402</strong></p>
 </div>
 
 ![1489](Screenshots/1489.png)
