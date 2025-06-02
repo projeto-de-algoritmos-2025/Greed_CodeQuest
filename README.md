@@ -34,8 +34,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">330. Patching Array</a></td>
-      <td><a href="./1368.cpp">330.cpp</a></td>
+      <td><a href="https://leetcode.com/problems/patching-array/">330. Patching Array</a></td>
+      <td><a href="./330.cpp">330.cpp</a></td>
       <td><a href="https://youtu.be/fgVYjV_cGeg">Link</a></td>
     </tr>
   </tbody>
@@ -44,18 +44,13 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 1 - Resolução do exercício 1368</strong></p>
+  <p><strong>Imagem 1 - Resolução do exercício 330</strong></p>
 </div>
 
 ![1028](Screenshots/1368.png)
 
-<div align="center">
-  <p><strong>Imagem 2 - Resolução do exercício 882</strong></p>
-</div>
 
-![2290](Screenshots/882.png)
-
-#### 🟡 Questão Média
+#### 🟡 Questões Média
 
 <div align="center">
 
@@ -69,22 +64,34 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">743. Network Delay Time
-</a></td>
-      <td><a href="./743.cpp">743.cpp</a></td>
-      <td><a href="https://youtu.be/TIDB92A5vXw">Link</a></td>
+      <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/">122. Best Time to Buy and Sell Stock II</a></td>
+      <td><a href="./122.cpp">122.cpp</a></td>
+      <td><a href="https://youtu.be/5-MY5riaWko">Link</a></td>
     </tr>
+    <tr>
+      <td><a href="https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/">452. Minimum Number of Arrows to Burst Balloons</a></td>
+      <td><a href="./452.cpp">452.cpp</a></td>
+      <td><a href="https://youtu.be/m7PuU86twPU">Link</a></td>
+    </tr>
+    
   </tbody>
 </table>
+
+<div align="center">
+  <p><strong>Imagem 2 - Resolução do exercício 122</strong></p>
+</div>
+
+![2290](Screenshots/882.png)
 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 3 - Resolução do exercício 743<strong></p>
+  <p><strong>Imagem 3 - Resolução do exercício 452<strong></p>
 </div>
 
 ![102](Screenshots/743.png)
 ---
+
 
 ### 👤 [Gustavo Alves de Souza](https://github.com/gustaallves)
 
