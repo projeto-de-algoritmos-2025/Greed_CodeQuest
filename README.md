@@ -114,8 +114,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
       <td><a href="https://youtu.be/Zo3cID--f5A">Link</a></td>
     </tr>
     <tr>
-      <td><a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/">1579. Remove Max Number of Edges to Keep Graph Fully Traversable</a></td>
-      <td><a href="./1579.py">1579.py</a></td>
+      <td><a href="https://leetcode.com/problems/put-marbles-in-bags/description/">2551. Put Marbles in Bags</a></td>
+      <td><a href="./2551.py">2551.py</a></td>
       <td><a href="https://youtu.be/wkD_H-RLiac">Link</a></td>
     </tr>
   </tbody>
@@ -127,13 +127,13 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <p><strong>Imagem 4 - Resolução do exercício 2402</strong></p>
 </div>
 
-![1489](Screenshots/1489.png)
+![1489](Screenshots/2402.png)
 
 <div align="center">
-  <p><strong>Imagem 5 - Resolução do exercício 1579</strong></p>
+  <p><strong>Imagem 5 - Resolução do exercício 2551</strong></p>
 </div>
 
-![1579](Screenshots/1579.png)
+![1579](Screenshots/2551.png)
 
 #### 🟡 Questão Média
 
