@@ -149,8 +149,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/count-the-number-of-complete-components/description/">2685. Count the Number of Complete Components</a></td>
-      <td><a href="./2685.py">2685.py</a></td>
+      <td><a href="https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/">2064. Minimized Maximum of Products Distributed to Any Store</a></td>
+      <td><a href="./2685.py">2064.py</a></td>
       <td><a href="https://youtu.be/gYx43vNSVjs">Link</a></td>
     </tr>
   </tbody>
@@ -159,10 +159,10 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 6 - Resolução do exercício 2685</strong></p>
+  <p><strong>Imagem 6 - Resolução do exercício 2064</strong></p>
 </div>
 
-![2685](Screenshots/2685.png)
+![2685](Screenshots/2064.png)
 
 ---
 
