@@ -111,12 +111,12 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/meeting-rooms-iii/">2402. Meeting Rooms III</a></td>
       <td><a href="./2402.py">2402.py</a></td>
-      <td><a href="https://youtu.be/Zo3cID--f5A">Link</a></td>
+      <td><a href="https://youtu.be/Pu3s2DJ9eNE">Link</a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/put-marbles-in-bags/description/">2551. Put Marbles in Bags</a></td>
       <td><a href="./2551.py">2551.py</a></td>
-      <td><a href="https://youtu.be/wkD_H-RLiac">Link</a></td>
+      <td><a href="https://youtu.be/wgAHkaWVEx0">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -150,8 +150,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <tbody>
     <tr>
       <td><a href="https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/">2064. Minimized Maximum of Products Distributed to Any Store</a></td>
-      <td><a href="./2685.py">2064.py</a></td>
-      <td><a href="https://youtu.be/gYx43vNSVjs">Link</a></td>
+      <td><a href="./2064.py">2064.py</a></td>
+      <td><a href="https://youtu.be/Vo-M0chFtLA">Link</a></td>
     </tr>
   </tbody>
 </table>

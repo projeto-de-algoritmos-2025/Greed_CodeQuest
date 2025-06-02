@@ -7,7 +7,7 @@ class Solution:
         def can_distribute(max_load):
             stores_needed = 0
             for q in quantities:
-                stores_needed += (q + max_load - 1) // max_load  # ceil sem usar math.ceil
+                stores_needed += (q + max_load - 1) // max_load
             return stores_needed <= n
         
         while left < right:
