@@ -34,14 +34,9 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">1368. Minimum Cost to Make at Least One Valid Path in a Grid</a></td>
-      <td><a href="./1368.cpp">1368.cpp</a></td>
-      <td><a href="https://youtu.be/1UBY27XQTZQ">Link</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/">882. Reachable Nodes In Subdivided Graph</a></td>
-      <td><a href="./882.cpp">882.cpp</a></td>
-      <td><a href="https://youtu.be/FneCoZWDc2M">Link</a></td>
+      <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">330. Patching Array</a></td>
+      <td><a href="./1368.cpp">330.cpp</a></td>
+      <td><a href="https://youtu.be/fgVYjV_cGeg">Link</a></td>
     </tr>
   </tbody>
 </table>
